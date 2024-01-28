@@ -82,6 +82,35 @@ The author of this project is not responsible for any possible harm caused by th
 
 # Installation
 
+## Install `nestopia` at Ubuntu
+```
+sudo apt-get update
+sudo apt-get install -y nestopia
+```
+
+## Clone Repo
+```
+mkdir ~/dev
+cd ~/dev
+git clone git@github.com:enishant/Nesroms.git Nesroms
+```
+
+> ***Syntax to start game***
+```
+nestopia ~/dev/Nesroms/Nesroms/<filename>
+```
+
+> ***Example to start game***
+```
+nestopia ~/dev/Nesroms/Nesroms/Tetris.nes
+```
+
+# Copy Ubuntu Applications to Ubuntu local Applications
+```
+chmod 755 ~/dev/Nesroms/UbuntuApps/*.desktop
+cp ~/dev/Nesroms/UbuntuApps/*.desktop ~/.local/share/applications
+```
+
 > ***Follow these steps.***
 ```
 $ Download Nesroms.
