@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Adventure Island I
+Exec=/usr/games/nestopia dev/Nesroms/Nesroms/Adventure\ Island\ I.nes -f

@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Contra
+Exec=/usr/games/nestopia dev/Nesroms/Nesroms/Contra.nes -f

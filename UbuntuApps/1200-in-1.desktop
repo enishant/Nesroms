@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=1200 In 1
+Exec=/usr/games/nestopia dev/Nesroms/Nesroms/1200-in-1.nes -f

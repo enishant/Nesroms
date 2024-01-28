@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=64 In 1
+Exec=/usr/games/nestopia dev/Nesroms/Nesroms/64-in-1.nes -f
